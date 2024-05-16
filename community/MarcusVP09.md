@@ -1,4 +1,5 @@
 # MarcusVP09
+## Olá! meu nome é Marcus e estou iniciando na programação. Hoje estudo Análise de Sistemas mas ainda não atuo na área. Sou formado em educação física e estou buscando mais conhecimento para consiguir a transição na profissão.
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcus-porfirio-1594332a9)
